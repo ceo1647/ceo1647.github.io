@@ -1,42 +1,86 @@
-## Welcome to GitHub Pages
+# Куда податься
+(предпочтительно в выходные)
 
-You4 can use the [editor on GitHub](https://github.com/ceo1647/ceo1647.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## кино:
+- [Опенгеймер](https://empire-vlg.ru/release/17016?date=2023-10-14) нашел в Пирамиде... (подозрительно какое качество и т.д. и почему места все не раскуплены)..но есть сеанс в 13:40 в субботу и в вокр... если будет не очень... то всегда можно зайти в библиотеку и поесть хорошего стейка);
+  - когда: **14/15 окт 13:40/16:50**
+  - где: **Пирамида**
+  - удобное время - **5**
+  - интересно ли - **5**
+  - расстояние - **3**
+  - отегчающие обст - **3**
+средний считать не буду - я бы попробовал...
+- [Иди ко мне, детка](https://afisha.yandex.ru/volgograd/cinema/idi-ko-mne-detka?source=rubric&schedule-date=2023-10-14) - да...не знаю что за фильм...но с этим актером из игры престолов и актриса известная [отзывов практически нет](https://www.kinopoisk.ru/film/1043206/) ...
+  - когда: **14 окт 18:30**
+  - где: **Ворошиловский**
+  - удобное время - **3**
+  - интересно ли - **4**
+  - расстояние - **3**
+  - отегчающие обст - **5**
+- [другие варианты](https://afisha.yandex.ru/volgograd/selections/cinema-weekend?source=babysize)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## театр
+### молодежка
+- [Дальше будет новый день](https://afisha.yandex.ru/volgograd/theatre_show/dalshe-budet-novyi-den-volgogradskii-molodezhnyi-teatr)
+  - когда: **18 ноября 18:00**
+  - где: **Молодежка**
+  - удобное время - **4**
+  - интересно ли - **4**
+  - расстояние - **3**
+- [Пигманиллион или укрощение строптивого](https://afisha.yandex.ru/volgograd/theatre_show/pigmalion-ili-ukroshchenie-stroptivogo?source=place)
+  - когда: **4 ноября 18:00**
+  - где: **Молодежка**
+  - удобное время - **4**
+  - интересно ли - **4**
+  - расстояние - **3**
+  - отегчающие обст - **4** (мало билетов)
+- [Свидригайлов](https://afisha.yandex.ru/volgograd/theatre_show/svidrigailov?source=place)
+  - когда: **5 ноября 18:00**
+  - где: **Молодежка**
+  - удобное время - **4**
+  - интересно ли - **3.5**
+  - расстояние - **3**
+  - отегчающие обст - **5**
+- [Жизнь в вопросах и восклицаниях](https://afisha.yandex.ru/volgograd/theatre_show/zhizn-v-voprosakh-i-vosklitsaniiakh)
+  - когда: **6 ноября 18:00**
+  - где: **Молодежка**
+  - удобное время - **2**
+  - интересно ли - **4.5**
+  - расстояние - **3**
+  - отегчающие обст - **2** (ПОНЕДЕЛЬНИК)
+    
+### нэт
+что-то нашел в нэте
+- [Эдит](https://afisha.yandex.ru/volgograd/theatre_show/edit-novyi-eksperimentalnyi-teatr?source=place)
+  - когда: **11 ноября 21:00**
+  - где: **НЭТ**
+  - удобное время - **2**
+  - интересно ли - **3**
+  - расстояние - **3**
+  - отегчающие обст - **2** (поздно)
 
-### Markdown
+### афиша
+- [афиша](https://afisha.yandex.ru/volgograd/theatre?source=menu)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ceo1647/ceo1647.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+## музыка
+- [попури из классики для дилетантов](https://volgogradfilarmonia.ru/afishi/concerts/kontsert-simfonicheskoj-muzyki-25)
+  - когда: **14 октября 13:00!**
+  - где: **Химик!!**
+  - удобное время - **5**
+  - интересно ли - **3.8**
+  - расстояние - **5**
+  - отегчающие обст - **5** (химик!!)(мало мест в партере)
+- [Рихард Вагнер](https://volgogradfilarmonia.ru/afishi/concerts/kontsert-simfonicheskoj-muzyki-25)
+  - когда: **22 октября 17:00**
+  - где: **ЦКЗ**
+  - удобное время - **4**
+  - интересно ли - **4**
+  - расстояние - **4**
+  - отегчающие обст - **5**
+- [Рок по-русски + орган](https://volgogradfilarmonia.ru/afishi/concerts/rok-po-russki-organ-2)
+  - когда: **4 ноября 17:00**
+  - где: **ЦКЗ**
+  - удобное время - **4**
+  - интересно ли - **4.5**
+  - расстояние - **4**
+  - отегчающие обст - **5**
